@@ -1,0 +1,1 @@
+Write a program that loops through 1 to 100 inclusive and prints out "fizz" if the number is divisible by 3, "buzz" if the number is disciple by 5, "fizzbuzz" if the number is divisible by both 3 and 5, and the number itself otherwise.
